@@ -11,6 +11,7 @@ Et leurs police d'écriture pour transformer les glyphs en verset lisible :
 https://github.com/quran/quran.com-frontend-v2/tree/master/app/assets/fonts/quran_fonts/v2/woff2
 
 Fonctions : getSurah(Numéro de la sourate), sert à obtenir toutes les pages de la sourate choisis avec son numéro.
+Cette fonction est pour le moment disponible dans le fichier najm.js et doit être manipuler en changeant le code source.
 
 
 Exemple de rendu avec la première page de la sourage 18 (Al-Kahf) :
