@@ -12,3 +12,7 @@ Exemple de rendu avec la première page de la sourage 18 (Al-Kahf) :
 
 ![image](https://github.com/benstitousofiane/najm/assets/129552238/d36bf1fa-49e1-4198-9b46-98da3ce89a0f)
 
+
+L'interface se repose principalement sur deux couleurs, une troisième est là pour de futures fonctionnalités, elle est pour le moment utiliser lorsque l'on surligne du text :
+
+![image](https://github.com/benstitousofiane/najm/assets/129552238/792f352c-e1b8-4f66-b812-5ab2e70ddbbf)
