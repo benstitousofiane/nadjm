@@ -1,9 +1,5 @@
 surah = document.getElementById("surah")
 
-surah_number = 2
-
-
-
 function maxPage(data){
     result = 1
     for (let i = 0; i < data.verses.length - 1; i++){
