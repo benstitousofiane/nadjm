@@ -1,4 +1,5 @@
 faire le chargement
 modifier la scrollbar
+navigation
 faire l'interface quand on a une requête invalide
 faire l'entête et le bas des pages
