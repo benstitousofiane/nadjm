@@ -1,0 +1,4 @@
+faire le chargement
+modifier la scrollbar
+faire l'interface quand on a une requête invalide
+faire l'entête et le bas des pages
