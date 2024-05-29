@@ -1,6 +1,14 @@
 # najm ☆
 Quran interface / Interface Coran
 
+30/05/2023 nouveautés :
+
+- URL : on peut naviguer entre les différente sourates via l'URL, exemple : /2 pour la sourate n°2
+
+- Page principale : choisissez une sourate depuis la page principale
+
+- Animation : Chargement des sourates avec une étoile qui tourne
+
 J'utilise l'API de quran.com pour récuperé les versets sous la forme de glyph : 
 
 https://github.com/quran/quran.com-api
