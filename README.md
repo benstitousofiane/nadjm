@@ -22,3 +22,16 @@ Exemple de rendu avec la première page de la sourage 18 (Al-Kahf) :
 L'interface se repose principalement sur deux couleurs, une troisième est là pour de futures fonctionnalités, elle est pour le moment utiliser lorsque l'on surligne du text :
 
 ![image](https://github.com/benstitousofiane/najm/assets/129552238/792f352c-e1b8-4f66-b812-5ab2e70ddbbf)
+
+
+Dépendences Node.js : express, ejs
+
+# Executer le programme :
+
+```git clone https://github.com/benstitousofiane/najm```
+
+```cd najm```
+
+```npm install express ejs --save```
+
+```node index.js```
