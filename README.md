@@ -1,5 +1,5 @@
 # najm ☆
-Quran interface / Interface Coran (Execution du programme, voir tout en bas)
+Quran interface / Interface Coran (Execution du programme en local, voir tout en bas)
 
 30/05/2023 nouveautés :
 
