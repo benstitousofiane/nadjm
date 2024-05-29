@@ -43,10 +43,10 @@ Dépendences Node.js : express, ejs
 
 # Executer le programme :
 
-```git clone https://github.com/benstitousofiane/najm```
+`git clone https://github.com/benstitousofiane/najm`
 
-```cd najm```
+`cd najm`
 
-```npm install express ejs --save```
+`npm install express ejs --save`
 
-```node index.js```
+`node index.js`
