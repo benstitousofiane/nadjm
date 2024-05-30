@@ -47,6 +47,8 @@ Dépendences Node.js : express, ejs
 
 `cd najm`
 
+`npm init -y`
+
 `npm install express ejs --save`
 
 `node index.js`
