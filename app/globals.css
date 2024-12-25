@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Hafs";
+    src: url("../public/quranfonts/uthmanic_hafs_v20.ttf");
+}
+
+
+.hafs {
+    font-family: "Hafs";
+}
+
+.glow {
+    text-shadow: 0px 0 10px;
+}
+
