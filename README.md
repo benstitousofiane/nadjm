@@ -1,9 +1,9 @@
 # Nadjm ★
 Quran and tools for learn it
 
-#Platforms
+# Platforms
 
-- web
+- web : <a href="https://nadjm.netlify.app/">Nadjm web<a/>
 
 
 # UI
