@@ -4,7 +4,7 @@ import "./globals.css";
 import Header from "./Header";
 
 export const metadata: Metadata = {
-  title: "Najm",
+  title: "Nadjm",
   description: "Tools for learning Al-Quran Al-Karim developed by Benstitou Sofiane",
 };
 
