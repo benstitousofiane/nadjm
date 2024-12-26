@@ -1,11 +1,12 @@
 # Nadjm ★
 Quran and tools for learn it
 
-#Platform
+#Platforms
 
 - web
 
-#UI
+
+# UI
 
 - Main interface (Nadjm) :
 choose sura :
