@@ -23,7 +23,7 @@ const en_no2ar_no : (en_no : number) => string = (en_no : number) => {
     return ar_no
 }
 
-export default async function Sura({params} : {params : {suraid : number}}){
+export default async function Sura({params} : {params : Promise<{suraid : number}>}){
     
     const { suraid } = await params
 
@@ -33,14 +33,14 @@ export default async function Sura({params} : {params : {suraid : number}}){
     
     const basmalaElement : ReactNode = suraid == 9 ? <></> : <Image src={basmala} width={1920} alt="basmala" className="w-96"/>
     
-    let sura : ReactNode[] = []
+    const sura : ReactNode[] = []
     
     let page : ReactNode[] = []
     let page_no : number = 1
 
     let can_push_hr : boolean = false
     
-    quran_hafs.forEach((verse, index) => {
+    quran_hafs.forEach((verse) => {
         
         if (page_no != verse.page){
             sura.push( <div key={`page_${page_no}`}  className="flex flex-row-reverse flex-wrap justify-center">{page}</div> )
