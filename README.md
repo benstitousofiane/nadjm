@@ -1,5 +1,14 @@
 # Nadjm ★
-Quran and tools for learn it
+Quran and tools for learn it / Coran et outils pour l'apprendre
+
+La licence "Unlicense license" s'applique à l'ensemble du dépôt à l'exception des sous-dossiers qui ont leur propre fichier de licence
+
+# Platforms
+
+- web : <a href="https://nadjm.netlify.app/">Nadjm web<a/>
+
+
+# UI
 
 - Main interface (Nadjm) :
 choose sura :
