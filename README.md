@@ -10,13 +10,6 @@ La licence "Unlicense license" s'applique à l'ensemble du dépôt à l'exceptio
 
 # UI
 
-# Platforms
-
-- web : <a href="https://nadjm.netlify.app/">Nadjm web<a/>
-
-
-# UI
-
 - Main interface (Nadjm) :
 choose sura :
 ![image](https://github.com/user-attachments/assets/87bb9e06-8c26-4a7a-a2ac-19ba8ca578b0)
