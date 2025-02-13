@@ -31,7 +31,7 @@ export default async function Sura({params} : {params : Promise<{suraid : number
         notFound()
     }
     
-    const basmalaElement : ReactNode = suraid in (1,9) ? <></> : <Image src={basmala} width={1920} alt="basmala" className="w-96"/>
+    const basmalaElement : ReactNode = ((suraid == 1) || (suraid == 9)) ? <></> : <Image src={basmala} width={1920} alt="basmala" className="w-96"/>
     
     const sura : ReactNode[] = []
     
